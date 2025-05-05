@@ -15,7 +15,7 @@ export const Home = () => {
           </h1> 
 
           <img 
-          src="/profile.jpg"
+          src="/Dorothy-portfolio-main/public/profile.jpg"
           alt="Dorothy Samson" 
           className="rounded-full w-32 h-32 md:w-40 md:h-40 mx-auto border-4 border-blue-500/20 shadow-lg"
           />
